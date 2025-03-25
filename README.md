@@ -1,4 +1,4 @@
-# Data-Analysis
+# Quantitative Data-Analysis
 Bait Lamina App (Feedback Analysis)
 
 Closed-ended Questions (quantitative): These questions helped to measure the overall usability of the app and identify the key drivers of satisfaction. Most of the questions used a Likert scale from 1 to 5, where 1 is considered as high and 5 as low. Similarly, the questions also included binary and multiple-choice options. These questions cover several aspects of the app and user experience: 
